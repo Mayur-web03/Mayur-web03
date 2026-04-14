@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mayur 👋
 
-<!--
-**Mayur-web03/Mayur-web03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer | MERN Stack
 
-Here are some ideas to get you started:
+I build scalable web apps using React, TypeScript, and modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- React.js, Next.js, TypeScript
+- JavaScript (ES6+)
+- Node.js, Express.js
+- Supabase, MongoDB
+
+## 🔥 Projects
+
+### 🧠 StudyAntra
+- AI-based learning platform
+- Built chat UI + visualization
+- Implemented real-time features using Supabase
+
+### 🌐 Vendor Connect
+- MERN app with authentication & CRUD operations
+- Responsive UI with modern frontend practices
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/mayur-choudhary-69937635b
