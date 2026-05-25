@@ -2,6 +2,8 @@
 
 💻 Currently working as a **Frontend Developer** at **Project Studyantra**
 
+🔗 LinkedIn: [Mayur Choudhary](https://www.linkedin.com/in/mayur-choudhary-69937635b/)
+
 ---
 
 ## 🚀 Skills
@@ -26,4 +28,5 @@
 
 ## 📫 Connect With Me
 
-[GitHub](https://github.com/Mayur-web03)
+- GitHub: [Mayur-web03](https://github.com/Mayur-web03)
+- LinkedIn: [Mayur Choudhary](https://www.linkedin.com/in/mayur-choudhary-69937635b/)
