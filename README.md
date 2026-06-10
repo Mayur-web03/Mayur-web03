@@ -1,14 +1,30 @@
 # Hi there 👋, I'm Mayur Choudhary
 
-💻 Currently working as a **Frontend Developer** at **Project Studyantra**
+🎓 **B.Tech Computer Science & Engineering | 3rd Year**  
+🤖 Passionate about **Machine Learning, Deep Learning & AI-powered Applications**  
+💻 Currently working as a **Frontend Developer** at **Project Studyantra**  
+🌱 Actively building projects at the intersection of **AI and real-world problem solving**
 
-🌱 Passionate about building modern web applications, AI-powered platforms, and interactive user experiences.
-
-🔗 LinkedIn: [Mayur Choudhary](https://www.linkedin.com/in/mayur-choudhary-69937635b/)
+🔗 LinkedIn: [Mayur Choudhary](https://www.linkedin.com/in/mayur-choudhary-69937635b/)  
+🔗 GitHub: [Mayur-web03](https://github.com/Mayur-web03)
 
 ---
 
-# 🚀 Skills
+# 🤖 ML / AI Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+**Concepts:** Convolutional Neural Networks (CNN) · Binary Classification · Image Preprocessing · Model Deployment · REST APIs · RAG (Retrieval Augmented Generation)
+
+---
+
+# 💻 Web & Full Stack Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -16,8 +32,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -27,92 +41,60 @@
 
 # 🌟 Projects
 
-# 📚 StudyAntra – AI Powered Learning Platform
+## 🔬 MedistatInsights — AI Malaria Cell Classifier
+> Deep Learning · CNN · Flask · TensorFlow · Medical Imaging
 
-🚀 StudyAntra is an AI-powered educational platform designed specifically for colleges and institutions to provide students with personalized learning based on their teacher’s syllabus, notes, and teaching style instead of generic AI responses.
+A deep learning web application that classifies malaria-infected blood cells from microscopy images using a CNN. Designed to assist medical diagnosis using AI — achieving **95%+ accuracy** on the NIH Malaria Cell Images Dataset.
 
-The platform combines **RAG (Retrieval Augmented Generation)**, **local LLMs**, and **algorithm visualization** to create an interactive and intelligent learning experience.
+Built as a team of 2. I was responsible for the **complete backend and ML pipeline**:
+- Trained and evaluated a **CNN model** using TensorFlow/Keras
+- Built a **Flask REST API** to serve predictions in real time
+- Implemented image preprocessing pipeline (resize, normalize, batch inference)
+- Auto-detects model input shape for flexible deployment
+- Integrated frontend with backend via API calls
 
----
+🔗 [View Repository](https://github.com/Mayur-web03/MEDISTATINSIGHTS)
 
-## ✨ Features
-
-### 🤖 AI Learning Assistant
-- Natural language AI chat interface
-- AI responses generated from teacher-uploaded content
-- Context-aware answers using RAG Pipeline
-- Local AI inference using Ollama
-
-### 📊 Algorithm Visualization Engine
-Interactive visualizations for:
-- Bubble Sort
-- Merge Sort
-- Quick Sort
-- Binary Search
-- BFS & DFS
-- Tree Traversals
-
-### 📝 Assignment & Evaluation
-- Coding assignment creation
-- AI-generated feedback
-- Test case validation
-- Progress tracking
-
-### 📈 Analytics Dashboard
-- Teacher & student dashboards
-- Topic interaction analytics
-- Assignment performance tracking
+**Tech Stack:**
+`Python` `TensorFlow` `Keras` `Flask` `NumPy` `Pillow` `HTML/CSS/JS`
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 StudyAntra — AI Powered Learning Platform
+> RAG · LLM · Next.js · Supabase · Algorithm Visualization
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-</p>
+An AI-powered educational platform for colleges and institutions. Provides students with personalized learning based on their teacher's syllabus using **RAG (Retrieval Augmented Generation)** and **local LLMs via Ollama**.
 
----
+Key highlights:
+- Context-aware AI responses from teacher-uploaded content using RAG pipeline
+- Interactive algorithm visualizations (Sorting, BFS/DFS, Tree Traversals)
+- AI-generated assignment feedback with test case validation
+- Analytics dashboards for both teachers and students
 
-# 📄 Vendor Connect – Invoice Management Web App
-
-🚀 A dynamic invoice management web application that allows users to generate and manage invoices with real-time calculations using JavaScript.
-
-🔗 **Live Demo:**  
-https://mayur-web03.github.io/vendor-connect/
+**Tech Stack:**
+`Next.js` `React.js` `TailwindCSS` `D3.js` `Supabase` `Ollama`
 
 ---
 
-## ✨ Features
+## 📄 Vendor Connect — Invoice Management Web App
+> JavaScript · DOM Manipulation · Real-time Calculations
 
-- Dynamic invoice generation
-- Real-time price calculations
-- Form validation and input handling
-- Responsive UI design
-- DOM manipulation for live updates
+A dynamic invoice management web app with real-time calculations, form validation, and responsive UI.
 
----
+🔗 [Live Demo](https://mayur-web03.github.io/vendor-connect/)
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+**Tech Stack:**
+`HTML5` `CSS3` `JavaScript`
 
 ---
 
 # 📚 Currently Learning
 
-- AI Integration with Web Applications
-- RAG Architecture
+- Supervised & Unsupervised Learning (for Amazon ML Summer School)
+- Neural Networks & Deep Learning fundamentals
+- Natural Language Processing (NLP)
+- RAG Architecture & LLM Integration
 - Next.js Advanced Concepts
-- Full Stack Development
 
 ---
 
@@ -122,7 +104,6 @@ https://mayur-web03.github.io/vendor-connect/
   <a href="https://github.com/Mayur-web03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/mayur-choudhary-69937635b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -132,4 +113,4 @@ https://mayur-web03.github.io/vendor-connect/
 
 # ⚡ Fun Fact
 
-I enjoy building interactive frontend experiences and solving real-world problems through technology 🚀
+I enjoy solving real-world problems through AI and technology — from detecting diseases in blood cells to building intelligent learning platforms 🚀
