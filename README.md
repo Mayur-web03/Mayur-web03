@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Mayur Choudhary
 
 🎓 **B.Tech Computer Science & Engineering | 3rd Year**  
-🤖 Passionate about **Machine Learning, Deep Learning & AI-powered Applications**  
-💻 Currently working as a **Frontend Developer** at **Project Studyantra**  
 🌱 Actively building projects at the intersection of **AI and real-world problem solving**
 
 🔗 LinkedIn: [Mayur Choudhary](https://www.linkedin.com/in/mayur-choudhary-69937635b/)  
@@ -69,17 +67,6 @@ Built as a team of 2 (Mayur Choudhary & Shailesh Madane) for a hackathon submiss
 
 🔗 [Live Demo](https://industrial-knowledge-brain.vercel.app/) · [View Repository](https://github.com/Mayur-web03/industrial-knowledge-brain-)
 
----
-
-# 📚 Currently Learning
-
-- Supervised & Unsupervised Learning (for Amazon ML Summer School)
-- Neural Networks & Deep Learning fundamentals
-- Natural Language Processing (NLP)
-- RAG Architecture & LLM Integration
-- Next.js Advanced Concepts
-
----
 
 # 📫 Connect With Me
 
@@ -91,9 +78,3 @@ Built as a team of 2 (Mayur Choudhary & Shailesh Madane) for a hackathon submiss
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-# ⚡ Fun Fact
-
-I enjoy solving real-world problems through AI and technology — from detecting diseases in blood cells to building intelligent learning platforms 🚀
