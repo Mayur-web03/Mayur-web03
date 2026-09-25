@@ -18,9 +18,10 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
-**Concepts:** Convolutional Neural Networks (CNN) · Binary Classification · Image Preprocessing · Model Deployment · REST APIs · RAG (Retrieval Augmented Generation)
+**Concepts:** Convolutional Neural Networks (CNN) · Binary Classification · Image Preprocessing · Model Deployment · REST APIs · RAG (Retrieval Augmented Generation) · Knowledge Graphs · Vector Search
 
 ---
 
@@ -30,61 +31,43 @@
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-# 🌟 Projects
+# 🌟 Featured Project
 
-## 🔬 MedistatInsights — AI Malaria Cell Classifier
-> Deep Learning · CNN · Flask · TensorFlow · Medical Imaging
+## 🏭 Industrial Nexus — AI-Powered Industrial Knowledge Intelligence Platform
+> RAG · Knowledge Graphs · LangChain/LangGraph · Groq (Llama 3.3 70B) · Neo4j · FastAPI
 
-A deep learning web application that classifies malaria-infected blood cells from microscopy images using a CNN. Designed to assist medical diagnosis using AI — achieving **95%+ accuracy** on the NIH Malaria Cell Images Dataset.
+Industrial Nexus unifies fragmented plant documentation — engineering drawings, maintenance records, safety procedures, inspection reports, and compliance files — into a single, continuously updated knowledge graph. Five connected AI agents deliver conversational Q&A, predictive maintenance and root-cause analysis, continuous regulatory compliance, and organisation-wide lessons-learned intelligence.
 
-Built as a team of 2. I was responsible for the **complete backend and ML pipeline**:
-- Trained and evaluated a **CNN model** using TensorFlow/Keras
-- Built a **Flask REST API** to serve predictions in real time
-- Implemented image preprocessing pipeline (resize, normalize, batch inference)
-- Auto-detects model input shape for flexible deployment
-- Integrated frontend with backend via API calls
+Built as a team of 2 (Mayur Choudhary & Shailesh Madane) for a hackathon submission.
 
-🔗 [View Repository](https://github.com/Mayur-web03/MEDISTATINSIGHTS)
+**Key Features:**
+- 🧠 **AI Knowledge Copilot** — natural-language Q&A with cited, confidence-scored responses
+- 🔗 **Knowledge Graph Explorer** — visually connects equipment, SOPs, manuals, incidents & records
+- 🔍 **Hybrid Search** — vector search + knowledge-graph retrieval for higher accuracy
+- 📧 **Smart Email Auto-Sync** — monitors mailboxes and ingests attachments automatically
+- 🛠️ **Predictive Maintenance & RCA** — flags likely failures from historical patterns
+- 📋 **Compliance Monitoring** — automatically detects audit and regulatory gaps
+- 📊 **Dashboard & Analytics** — document stats, graph growth and platform usage
 
-**Tech Stack:**
-`Python` `TensorFlow` `Keras` `Flask` `NumPy` `Pillow` `HTML/CSS/JS`
-
----
-
-## 📚 StudyAntra — AI Powered Learning Platform
-> RAG · LLM · Next.js · Supabase · Algorithm Visualization
-
-An AI-powered educational platform for colleges and institutions. Provides students with personalized learning based on their teacher's syllabus using **RAG (Retrieval Augmented Generation)** and **local LLMs via Ollama**.
-
-Key highlights:
-- Context-aware AI responses from teacher-uploaded content using RAG pipeline
-- Interactive algorithm visualizations (Sorting, BFS/DFS, Tree Traversals)
-- AI-generated assignment feedback with test case validation
-- Analytics dashboards for both teachers and students
+**Architecture:** Documents pass through OCR/NLP extraction → entities populate a **Neo4j** knowledge graph → chunk embeddings stored in **ChromaDB** → **LangChain/LangGraph** orchestrate Planner, Retriever, RCA, Compliance and Validator agents → **Groq's Llama 3.3 70B** generates grounded, low-latency responses.
 
 **Tech Stack:**
-`Next.js` `React.js` `TailwindCSS` `D3.js` `Supabase` `Ollama`
+`Next.js` `FastAPI` `LangChain` `LangGraph` `Groq API` `Tesseract OCR` `BGE-Large Embeddings` `ChromaDB` `Neo4j` `PostgreSQL` `AWS S3` `Docker` `Kubernetes`
 
----
+**Performance Targets:** OCR Accuracy >95% · Query Response Time <2 sec · Citation Accuracy >98% · Retrieval Precision >90%
 
-## 📄 Vendor Connect — Invoice Management Web App
-> JavaScript · DOM Manipulation · Real-time Calculations
-
-A dynamic invoice management web app with real-time calculations, form validation, and responsive UI.
-
-🔗 [Live Demo](https://mayur-web03.github.io/vendor-connect/)
-
-**Tech Stack:**
-`HTML5` `CSS3` `JavaScript`
+🔗 [Live Demo](https://industrial-knowledge-brain.vercel.app/) · [View Repository](https://github.com/Mayur-web03/industrial-knowledge-brain-)
 
 ---
 
