@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mayur Choudhary
 
-🎓 B.Tech Computer Engineering, Indira College of Engineering and Management | CGPA 9.25/10 | Exp. 2028
+🎓 B.Tech Computer Engineering, Indira College of Engineering and Management |
 🌱 Building AI systems that are reliable, explainable and grounded in real data
 🔬 Interests: Retrieval-Augmented Generation · Agentic AI · AI Reliability · AI Security
 
