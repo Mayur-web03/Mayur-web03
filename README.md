@@ -1,9 +1,52 @@
 # Hi there 👋, I'm Mayur Choudhary
 
-🎓 B.Tech Computer Science & Engineering | 3rd Year
-🌱 Building projects at the intersection of AI and real-world problem solving
+🎓 B.Tech Computer Engineering, Indira College of Engineering and Management | CGPA 9.25/10 | Exp. 2028
+🌱 Building AI systems that are reliable, explainable and grounded in real data
+🔬 Interests: Retrieval-Augmented Generation · Agentic AI · AI Reliability · AI Security
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mayur-choudhary-69937635b/) · [GitHub](https://github.com/Mayur-web03)
+
+---
+
+## 🚀 Projects
+
+### 🏭 Industrial Nexus — Agentic RAG Knowledge Platform
+*Jun 2026 – Jul 2026 · Team of 2 · [Live Demo](https://industrial-knowledge-brain.vercel.app/) · [Repo](https://github.com/Mayur-web03/industrial-knowledge-brain-)*
+
+- Unifies heterogeneous industrial documents into an evidence-grounded retrieval system
+- Hybrid graph + vector retrieval using **Neo4j** and **ChromaDB**, with OCR/NLP extraction
+- **5-agent** orchestration layer (Planner, Retriever and others) grounding LLM answers in retrieved passages and graph paths
+- RBAC, JWT/OAuth and audit logging; FastAPI backend supporting **3 user roles**
+
+`FastAPI` `Next.js` `LangChain` `LangGraph` `Neo4j` `ChromaDB` `Groq`
+
+### 📚 StudyAntra — AI-Powered Learning Platform
+*Feb 2026 – May 2026 · Backend Developer*
+
+- RESTful backend APIs connecting the React frontend to AI tutoring and chat
+- Supabase/PostgreSQL for authentication and data persistence
+- TypeScript API contracts; worked with frontend and AI teammates on API design and data modeling
+
+`TypeScript` `React` `Supabase` `PostgreSQL`
+
+### 🔍 CryptoTrace — Blockchain Fraud-Traceability Platform *(Ongoing)*
+*2026 – Present · Independent · [Live Demo](https://cryptotrace-self.vercel.app) 
+
+- Recursive multi-hop transaction tracing across **5 blockchains**, including cross-chain bridges and obfuscation patterns
+- Confidence-scored attribution using a curated registry and heuristic clustering
+- Built for explainable blockchain-fraud analysis
+
+`Python` `FastAPI` `Supabase` `React` `TypeScript`
+
+---
+
+## 🏆 Achievements
+
+- Top **15,000** nationally — Google's The Big Code 2026 (Round 1)
+- Semifinalist — ET AI Hackathon 2.0 (2026)
+- Finalist — Frontend Battle 3.0
+- Team Leader — Smart India Hackathon internal round
+- Virtual Intern — Google Cloud Generative AI (SmartBridge/AICTE), Sep–Oct 2025: Vertex AI and Cloud Run
 
 ---
 
@@ -16,7 +59,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Concepts:** CNN · Binary Classification · Image Preprocessing · Model Deployment · REST APIs · RAG · Knowledge Graphs · Vector Search
+**Concepts:** RAG · Agentic AI · Knowledge Graphs · Vector Search · CNN · Binary Classification · Model Deployment · REST APIs
 
 ---
 
